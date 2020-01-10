@@ -1,0 +1,3 @@
+[console_scripts]
+exchange_trade_data_api = exchange_trade_data_api:main
+

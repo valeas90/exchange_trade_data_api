@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: exchange-trade-data-api
+Version: 0.1.0
+Summary: A service to query data with cryptocurrency exchange trades
+Home-page: UNKNOWN
+Author: valeas90
+Author-email: jonvaleas@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
