@@ -1,7 +1,7 @@
 from aiohttp.web import json_response
 
 
-async def status(request):
+async def status_check(request):
     """Status check.
 
     Implement here all your app's needs to be considered "alive".
