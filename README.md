@@ -45,3 +45,15 @@ Each trades record is composed of the following fields and the fields have the f
     record_key: String
     isodate: ISODate
     meta_doc_created_at: ISODate
+
+
+## Use Cases (approach)
+
+original_investment_euros = 1500
+current_btc_price_euros = 8800
+
+break_even_btc = original_investment_euros / current_btc_price_euros
+
+total_wallet_btc = 0.13293518
+
+status_percent = total_wallet_btc * 100 / break_even_btc  # 77.98
